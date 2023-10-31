@@ -1,4 +1,4 @@
-# warp
+# 本脚本来自于 https://github.com/yonggekkk/warp-yg
 
 相关说明及注意点请查看warp系列视频说明 更新日志
 一、WARP多功能VPS一键脚本，支持纯IPV4、纯IPV6的VPS直接安装，主流linux系统均支持
